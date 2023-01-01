@@ -1,0 +1,9 @@
+body{
+    background-color: beige;
+    background-image: url(img/ed6-notes-img1@3x.png);
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
